@@ -18,4 +18,8 @@ public class SpringBootApp01Application {
 		System.out.println("welcome to spring boot");
 	}
 
+        public void modified2() {
+		System.out.println("welcome to spring boot");
+	}
+
 }
